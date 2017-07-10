@@ -15,5 +15,5 @@ An ISO image is a file archive of an optical disc.  If you want to create Linux 
 * Click on "Download".
 * Click on "Stable".
 * Go to the LXDE Edition section, and download one of the ISO files from the OSDN web mirror.  If you have a 32-bit host OS, select the i686 non-pae version.  If you have a 64-bit host OS, pick the x86_64/amd64 version.
-* Your download will be completed in a few minutes.  The next step is to verify the ISO file that you downloaded.
-* Do not close your web browser window or tab yet, because you will be downloading another file from the SparkyLinux download page in the next chapter.
+* In addition, download the corresponding AllSums.txt file corresponding to the ISO file that you downloaded.  (You'll need this in the next chapter.)
+* While the download of the small AllSums.txt will be completed immediately, the download of the ISO file will take a few minutes.  (The time needed will depend on the speed of your Internet connection.)  You'll be ready to move on to the next chapter when this big download process is finished.
