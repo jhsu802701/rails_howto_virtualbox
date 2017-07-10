@@ -4,7 +4,7 @@
 You should verify your ISO file to make sure that it hasn't been corrupted.  In the event that you have problems booting up your virtual Linux machine from this file, you are assured that a corrupted file is not the culprit.
 
 ## What is MD5?
-The MD5 calculation gives a checksum 
+MD5 calculates the value of a file by analyzing it with a cryptographic algorithm and producing an output string.
 
 ## Procedure
 * In your file browser, go to the directory where files are downloaded.
