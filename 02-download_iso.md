@@ -11,8 +11,9 @@ An ISO image is a file archive of an optical disc.  If you want to create Linux 
 * It offers a version based on Debian's stable branch, which is what you will use here.  The stable branch is known for greater stability and lower maintenance requirements than the testing and unstable branches of Debian.
 
 ## Procedure
-* Go to the [Sparky Linux](https://sparkylinux.org/) web site.
+* Go to the [SparkyLinux](https://sparkylinux.org/) web site.
 * Click on "Download".
 * Click on "Stable".
 * Go to the LXDE Edition section, and download one of the ISO files from the OSDN web mirror.  If you have a 32-bit host OS, select the i686 non-pae version.  If you have a 64-bit host OS, pick the x86_64/amd64 version.
 * Your download will be completed in a few minutes.  The next step is to verify the ISO file that you downloaded.
+* Do not close your web browser window or tab yet, because you will be downloading another file from the SparkyLinux download page in the next chapter.
