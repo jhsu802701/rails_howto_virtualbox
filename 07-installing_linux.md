@@ -12,6 +12,11 @@ In this chapter, you will install Sparky Linux to the virtual machine and then s
 * The installation process will now begin and take several minutes to complete.  How long this takes depends on the speed of your computer.
 * After the installation process is completed, click on "Quit".
 * Click on Menu -> Logout and select "Shutdown".
-* Once the virtual machine has been shut down, select "SparkyLinux" and click on "Snapshots".
-* Click on the camera symbol to take a snapshot of the current state.  Use the name "Initial installation" for this snapshot.
-* Now you have saved the initial post-installation state of your SparkyLinux virtual machine.  If you ever want to or need to return your virtual machine to this state, you can restore this snapshot rather than reinstall SparkyLinux.
+* Remove the ISO file from the virtual optical drive.  This is the virtual equivalent of ejecting the DVD from the optical drive.
+  * Once the virtual machine has been shut down and you are back in the VirtualBox main screen, select "SparkyLinux", click on "Settings", and click on "Storage".  
+  * Select the SparkyLinux ISO file (under "Controller: IDE"), click on the disc symbol, and select the "Remove Disk from Virtual Drive" option.  The virtual IDE controller should now be empty.
+  * Click on "OK" to return to the VirtualBox main screen.
+* Take a snapshot of the virtual machine's current state.
+  * From the VirtualBox main screen, select "SparkyLinux" and click on "Snapshots".
+  * Click on the camera symbol to take a snapshot of the current state.  Use the name "Initial installation" for this snapshot.
+  * Now you have saved the initial post-installation state of your SparkyLinux virtual machine.  If you ever want to or need to return your virtual machine to this state, you can restore this snapshot rather than reinstall SparkyLinux.
