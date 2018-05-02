@@ -12,7 +12,7 @@ An ISO image is a file archive of an optical disc.  If you want to create Linux 
 
 ## Procedure
 * Go to the [SparkyLinux](https://sparkylinux.org/) web site.
-* Click on "Download".
+* Click on the "Download" tab at the top of the page.
 * Click on "Stable".
 * Go to the LXDE Edition section, and download one of the ISO files from the OSDN web mirror.  If you have a 32-bit host OS, select the i686 non-pae version.  If you have a 64-bit host OS, pick the x86_64/amd64 version.
 * In addition, download the corresponding AllSums.txt file corresponding to the ISO file that you downloaded.  (You'll need this in the next chapter.)
