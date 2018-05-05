@@ -1,5 +1,5 @@
 # Chapter 5: Configuring the Virtual Machine
-
+[Click here for chapter 4](https://github.com/rubyonracetracks/tutorial-virtualbox/blob/master/04-create_virtual_machine.md)
 In this chapter, you will configure your new virtual machine.
 
 ## Procedure
@@ -10,3 +10,4 @@ In this chapter, you will configure your new virtual machine.
 * If your host OS is Linux or Windows, click on "User Interface".  Toggle on the "Show at Top of Screen" setting.
 * Click on "OK".  This updates the virtual machine settings.
 * You should now be back in the main screen of VirtualBox.  Your virtual machine is now ready to boot up, which is the subject of the next chapter.
+* [Click here for chapter 6](https://github.com/rubyonracetracks/tutorial-virtualbox/blob/master/06-boot_up_virtual_machine.md)

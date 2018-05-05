@@ -1,5 +1,5 @@
 # Chapter 8: Updating Linux
-
+[Click here for chapter 7](https://github.com/rubyonracetracks/tutorial-virtualbox/blob/master/07-installing_linux.md)
 While a Linux distro based on Debian Stable requires substantially less maintenance than one based on Debian Testing or Ubuntu, it still requires some maintenance to keep the software in it reasonably secure and up-to-date.
 
 ## Procedure
@@ -18,3 +18,4 @@ While a Linux distro based on Debian Stable requires substantially less maintena
 * Click on Menu -> Logout, and select the option to shut down your computer.
 * Save a snapshot of the current state of your virtual machine.  Use the name "Updated SparkyLinux (insert date here)".
 * CONGRATULATIONS!  You are now ready to roll with your Linux virtual machine.
+* [Return to the Table of Contents here](https://github.com/rubyonracetracks/tutorial-virtualbox).
