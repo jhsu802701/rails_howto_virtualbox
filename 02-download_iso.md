@@ -1,5 +1,6 @@
 # Chapter 2: Downloading the Linux ISO Image
-In this chapter, you will download the ISO image of a Linux distro called SparkyLinux.
+In this chapter, you will download the ISO image of a Linux distro called SparkyLinux.  
+[Click here for Chapter 1](https://github.com/rubyonracetracks/tutorial-virtualbox/blob/master/01-install.md)
 
 ## Background
 ### What is an ISO Image?
@@ -17,3 +18,4 @@ An ISO image is a file archive of an optical disc.  If you want to create Linux 
 * Go to the LXDE Edition section, and download one of the ISO files from the OSDN web mirror.  If you have a 32-bit host OS, select the i686 non-pae version.  If you have a 64-bit host OS, pick the x86_64/amd64 version.
 * In addition, download the corresponding AllSums.txt file corresponding to the ISO file that you downloaded.  (You'll need this in the next chapter.)
 * While the download of the small AllSums.txt will be completed immediately, the download of the ISO file will take a few minutes.  (The time needed will depend on the speed of your Internet connection.)  You'll be ready to move on to the next chapter when this big download process is finished.
+* [Click here for chapter 3](https://github.com/rubyonracetracks/tutorial-virtualbox/blob/master/03-verify_iso.md)

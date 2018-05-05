@@ -1,6 +1,6 @@
 # Chapter 7: Installing Linux in the Virtual Machine
-
-In this chapter, you will install Sparky Linux to the virtual machine and then save a snapshot of this initial post-installation state.
+In this chapter, you will install Sparky Linux to the virtual machine and then save a snapshot of this initial post-installation state.  
+[Click here for chapter 6](https://github.com/rubyonracetracks/tutorial-virtualbox/blob/master/06-boot_up_virtual_machine.md)
 
 ## Procedure
 * Boot up your virtual machine with Sparky Linux, just as you did in the previous chapter.
@@ -20,3 +20,4 @@ In this chapter, you will install Sparky Linux to the virtual machine and then s
   * From the VirtualBox main screen, select "SparkyLinux" and click on "Snapshots".
   * Click on the camera symbol to take a snapshot of the current state.  Use the name "Initial installation" for this snapshot.
   * Now you have saved the initial post-installation state of your SparkyLinux virtual machine.  If you ever want to or need to return your virtual machine to this state, you can restore this snapshot rather than reinstall SparkyLinux.
+  * [Click here for Chapter 8](https://github.com/rubyonracetracks/tutorial-virtualbox/blob/master/08-updating_linux.md)
