@@ -1,6 +1,6 @@
 # Chapter 2: Downloading the Linux ISO Image
-[Click here for Chapter 1](https://github.com/rubyonracetracks/tutorial-virtualbox/blob/master/01-install.md)
 In this chapter, you will download the ISO image of a Linux distro called SparkyLinux.
+[Click here for Chapter 1](https://github.com/rubyonracetracks/tutorial-virtualbox/blob/master/01-install.md)
 
 ## Background
 ### What is an ISO Image?

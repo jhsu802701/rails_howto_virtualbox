@@ -1,6 +1,6 @@
 # Chapter 5: Configuring the Virtual Machine
-[Click here for chapter 4](https://github.com/rubyonracetracks/tutorial-virtualbox/blob/master/04-create_virtual_machine.md)
 In this chapter, you will configure your new virtual machine.
+[Click here for chapter 4](https://github.com/rubyonracetracks/tutorial-virtualbox/blob/master/04-create_virtual_machine.md)
 
 ## Procedure
 * In the main screen of VirtualBox, select the "SparkyLinux" virtual machine, and click on "Settings" to configure your virtual machine.
