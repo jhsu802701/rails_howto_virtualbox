@@ -1,5 +1,5 @@
 # Chapter 4: Creating the Virtual Machine
-In this chapter, you will create a virtual machine in VirtualBox.
+In this chapter, you will create a virtual machine in VirtualBox.  
 [Click here for chapter 3](https://github.com/rubyonracetracks/tutorial-virtualbox/blob/master/03-verify_iso.md)
 
 ## Procedure

@@ -1,5 +1,5 @@
 # Chapter 6: Booting Up the Virtual Machine
-In this chapter, you will boot up SparkyLinux in the virtual machine.
+In this chapter, you will boot up SparkyLinux in the virtual machine.  
 [Click here for chapter 5](https://github.com/rubyonracetracks/tutorial-virtualbox/blob/master/05-configure_virtual_machine.md)
 
 ## Procedure

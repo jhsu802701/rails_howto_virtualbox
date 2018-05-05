@@ -1,5 +1,5 @@
 # Chapter 5: Configuring the Virtual Machine
-In this chapter, you will configure your new virtual machine.
+In this chapter, you will configure your new virtual machine.  
 [Click here for chapter 4](https://github.com/rubyonracetracks/tutorial-virtualbox/blob/master/04-create_virtual_machine.md)
 
 ## Procedure
